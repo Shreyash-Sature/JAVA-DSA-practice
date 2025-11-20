@@ -1,4 +1,4 @@
-public class JavaBasics{
+public class aJavaBasics{
     public static void main(String[] args) {
         System.out.println ("Hellow World!\n");
         System.out.print("Hellow\n");
