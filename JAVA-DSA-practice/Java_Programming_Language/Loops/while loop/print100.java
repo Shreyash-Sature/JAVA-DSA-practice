@@ -1,0 +1,13 @@
+import java.util.*;
+public class print100{
+    public static void main(String [] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter how many times you want to print : ");
+        int n= sc.nextInt();
+        int a =1;
+         while (a<=n){
+            System.out.println("Hello World..");
+            a++;
+         }
+    }
+}
