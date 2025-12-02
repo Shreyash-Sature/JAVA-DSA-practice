@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class B_areaof0 {
+public class F_areaof0 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 

@@ -1,9 +1,9 @@
 import java.util.*;
 
-public class input{
+public class D_input{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine();
+        String input = sc.nextLine(); //For String input use .nextLine()
 
         System.out.println(input);
 

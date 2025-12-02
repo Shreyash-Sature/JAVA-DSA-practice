@@ -1,9 +1,7 @@
 public class A_JavaBasics{
     public static void main(String[] args) {
         System.out.println ("Hellow World!\n");
-        System.out.print("Hellow\n");
-       
-        
+        System.out.print("Hellow\n");      
     }
     // public static void main(String[] args) {
     //     byte a=8;
@@ -17,14 +15,5 @@ public class A_JavaBasics{
     //     System.out.println(r);
 
     //     int d=12;
-    //     System.out.println(d);
-
-
-
-    // }
-
-
-
-    
-    
+    //     System.out.println(d);    
 }
