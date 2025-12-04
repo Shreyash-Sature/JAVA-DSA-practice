@@ -15,11 +15,7 @@ public class F_Factorial {
         int num = sc.nextInt();
 
         int fact =factorial(num);
-        System.out.println("Factorial of given number is : "+fact);
-
-
-
-        
+        System.out.println("Factorial of given number is : "+fact);  
     }
     
 }
