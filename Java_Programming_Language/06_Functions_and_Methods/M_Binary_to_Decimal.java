@@ -1,4 +1,11 @@
+/*
+Binary number : (0,1)
+decimal number : (0-9)
 
+BInary : 101 => 1*(2^2) + 0*(2^1) + 1*(2^0)
+             =  1*4     +  0*2    + 1*1 
+        101  =  5 
+  */
 
 import java.util.*;
 public class M_Binary_to_Decimal {
