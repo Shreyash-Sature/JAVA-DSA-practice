@@ -1,6 +1,8 @@
 /*
 Function Overloading : Multiple functions with same name but different type of parameters or 
                        different no. of parameters. 
+
+    If function have same name and but different return Type then no overloading (error)
 */
 
 import java.util.*;
