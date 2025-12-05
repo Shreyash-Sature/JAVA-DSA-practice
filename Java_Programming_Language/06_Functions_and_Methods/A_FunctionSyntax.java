@@ -8,6 +8,7 @@ returnType func_name(){
 }
 
 In java all functions are written in the class & the functions written in class are generally called as methods.
+
 */
 public class A_FunctionSyntax{
 
