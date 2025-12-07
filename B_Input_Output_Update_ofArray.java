@@ -1,7 +1,10 @@
 import java.util.*;
 public class B_Input_Output_Update_ofArray {
+
     public static void Input_Arr(int marks[]){
+
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Enters marks of English :");
         marks[0]= sc.nextInt();
         System.out.print("Enters marks of Physics :");
@@ -26,6 +29,8 @@ public class B_Input_Output_Update_ofArray {
 
     public static void main(String[] args) {
         int marks[]=new int[5];
+
+        System.out.println("Length of Array is : " + marks.length);
 
         Input_Arr(marks);
         Output_Arr(marks);
