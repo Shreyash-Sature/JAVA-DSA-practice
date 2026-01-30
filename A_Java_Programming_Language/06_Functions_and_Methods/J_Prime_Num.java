@@ -12,6 +12,7 @@ public class J_Prime_Num {
     }
     public static void main(String[]args){
         Scanner sc = new Scanner (System.in);
+        System.out.print("Enter a number to check if it is prime number : ");
         int n = sc.nextInt();
         System.out.println(is_Prime(n));
         

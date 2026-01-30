@@ -10,6 +10,7 @@ public class A_Bubble_Sort {
                 }
             }
         }
+
         for(int i =0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
         }

@@ -10,9 +10,9 @@ returnType fun_name(type parameter1, type parameter2){
     eg. calculateSum(a,b);
 */
 import java.util.*;
-public class B_Syntax_with_Parameters { // parameters or formal parameters
+public class B_Syntax_with_Parameters { 
 
-    public static int calculateSum(int num1, int num2){
+    public static int calculateSum(int num1, int num2){// parameters or formal parameters
         int sum = num1 + num2;
         return sum;
     }
