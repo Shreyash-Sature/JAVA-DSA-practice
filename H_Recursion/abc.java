@@ -1,13 +1,23 @@
 public class abc {
-    public static void main(String[] args) {
-        int n =12345;
-        int sum = 0;
-        while(n>0){
-            int lastDig = n % 10;
-            sum = sum + lastDig;
-            n = n/10;
+    public static boolean SortedArr(int arr[] , int idx){
+        if(arr.length==0 || arr.length==1){
+            return true;
         }
-        System.out.println(sum);
+        if(idx == arr.length){
+            return true;
+        }
+        if(arr[idx]<arr[idx -1]){
+            return false;
+        }
+
+        return SortedArr(arr, idx+1);
+
+        
+    }
+    public static void main(String[] args) {
+        int arr[] = {1,3,4,2};
+        int idx =1;
+        System.out.println(SortedArr(arr, idx));
     }
     
 }
