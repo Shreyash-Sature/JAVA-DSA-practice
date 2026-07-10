@@ -23,13 +23,13 @@ class BankAcc{
     public String username = "username";
     private String password = "password";
 
-    void set_usrname(String usrname){
+    public void set_usrname(String usrname){
         this.username = usrname;
     }
-    void set_pass(String pass){
+    public void set_pass(String pass){
         this.password = pass;
     }
-    String get_pass(){
+    public String get_pass(){
         return this.password;
     }
 }

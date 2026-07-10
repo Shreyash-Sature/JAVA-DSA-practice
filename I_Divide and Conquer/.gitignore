@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+
+# VS Code
+.vscode/
+
+# Metals
+.metals/
+
+# Bloop
+.bloop/

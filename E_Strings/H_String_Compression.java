@@ -20,6 +20,18 @@ public class H_String_Compression {
                 counter = 1;
             }
         }
+
+        
+        
+        // for (int i = 1; i <= str.length(); i++) {
+        //     if (i < str.length() && str.charAt(i) == str.charAt(i - 1)) {
+        //         count++;
+        //     } else {
+        //         sb.append(str.charAt(i - 1)).append(count);
+        //         count = 1;
+        //     }
+        // }
+    
         sb.append(counter);
         return sb.toString();
     }

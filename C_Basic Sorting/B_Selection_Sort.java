@@ -2,7 +2,7 @@ public class B_Selection_Sort {
     public static void SelectionSort(int arr[]){
         
         for(int i =0;i<arr.length-1;i++){
-            int small = Integer.MAX_VALUE;
+            int small = arr[i];
             for(int j =i+1;j<arr.length;j++){
                 
                 if(arr[j]<small){
@@ -20,7 +20,7 @@ public class B_Selection_Sort {
         }
     }
     public static void main(String[] args) {
-        int arr[] = {4,2,8,3,9};
+        int arr[] = {1,2,8,3,9};
         SelectionSort(arr);
     }
 }

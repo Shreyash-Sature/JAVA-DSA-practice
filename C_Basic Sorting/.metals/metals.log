@@ -1,0 +1,1212 @@
+2026.06.16 18:50:57 INFO  Started: Metals version 1.6.7 in folders '/Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting' for client Visual Studio Code 1.92.2.
+2026.06.16 18:50:57 INFO  Memory monitor started
+2026.06.16 18:50:58 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.16 18:50:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:51:00 WARN  no build tool detected in workspace '/Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.06.16 18:51:00 WARN  Build server is not auto-connectable.
+2026.06.16 18:51:00 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/A_Bubble_Sort.java
+2026.06.16 18:51:00 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java
+Jun 16, 2026 6:51:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Jun 16, 2026 6:51:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Jun 16, 2026 6:51:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.06.16 18:51:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.Jun 16, 2026 6:51:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+
+2026.06.16 18:50:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+Jun 16, 2026 6:51:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2026.06.16 18:51:01 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/B_Selection_Sort.java. Output:
+
+2026.06.16 18:51:01 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/A_Bubble_Sort.java. Output:
+
+2026.06.16 18:51:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:51:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:51:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:51:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:51:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:51:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:51:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:13 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java
+2026.06.16 18:52:13 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:13 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/B_Selection_Sort.java. Output:
+
+2026.06.16 18:52:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:38 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:38 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/B_Selection_Sort.java. Output:
+
+2026.06.16 18:52:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:43 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/B_Selection_Sort.java. Output:
+
+2026.06.16 18:52:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:48 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/B_Selection_Sort.java. Output:
+
+2026.06.16 18:52:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:52:50 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java
+2026.06.16 18:52:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:29 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/B_Selection_Sort.java. Output:
+
+2026.06.16 18:53:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:31 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/B_Selection_Sort.java. Output:
+
+2026.06.16 18:53:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:34 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/B_Selection_Sort.java. Output:
+
+2026.06.16 18:53:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:53:37 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java
+2026.06.16 18:53:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:54:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/B_Selection_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:54:28 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/C_Insertion_Sort.java
+2026.06.16 18:54:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/C_Insertion_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:54:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/C_Insertion_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:54:28 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/C_Insertion_Sort.java. Output:
+
+2026.06.16 18:54:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/C_Insertion_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:54:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/C_Insertion_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:54:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/C_Insertion_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:56:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/C_Insertion_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:56:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/A_Bubble_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:56:17 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/A_Bubble_Sort.java
+2026.06.16 18:56:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/A_Bubble_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:56:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/A_Bubble_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:56:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/A_Bubble_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:56:24 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/A_Bubble_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:58:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/A_Bubble_Sort.java. Using fallback presentation compiler.
+2026.06.16 18:59:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:07 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 18:59:07 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:07 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+Jun 16, 2026 6:59:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 212
+2026.06.16 18:59:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:13 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:13 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:14 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:15 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:15 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:15 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:16 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:16 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:17 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:18 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:18 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:23 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:24 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:23 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:28 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:28 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:31 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:34 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:35 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:35 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:38 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:38 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:38 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:38 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:39 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:41 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:42 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:44 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:45 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:45 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:47 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:48 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:49 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:50 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:50 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:50 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:52 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:54 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:55 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:55 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:57 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 18:59:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 18:59:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:00 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:01 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:02 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:02 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:04 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:05 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:06 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:07 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:08 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:09 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:09 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:10 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:10 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:12 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:15 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:16 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:17 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:18 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:18 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:18 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:18 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:18 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:19 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:19 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:20 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:20 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:21 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:00:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:24 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:24 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:24 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:00:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:05 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:05 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:08 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:08 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:40 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:40 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:44 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:46 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:47 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:50 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:51 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:53 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:54 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:54 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:54 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:55 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:55 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:55 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:55 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:55 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:55 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:55 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:55 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:55 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:56 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:56 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:58 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:01:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:01:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:03 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:04 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:04 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:04 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:06 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:07 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:06 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:07 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:10 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:12 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:12 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:13 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:12 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:13 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:14 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:14 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:15 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:20 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:21 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:22 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:22 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:28 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:31 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:32 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:34 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:35 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:36 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:36 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:37 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:02:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:40 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 19:02:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:41 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 19:02:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:50 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 19:02:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:02:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:28 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:03:28 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:29 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 19:03:29 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:03:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:04:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:04:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:04:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:04:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:13 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:15 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:15 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:16 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:16 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:16 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:17 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:17 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:27 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:27 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:30 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:31 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:32 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:31 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:32 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:33 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:34 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:34 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:35 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:37 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:39 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:39 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:40 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:42 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:46 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:46 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:48 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:48 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:49 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:49 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:50 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:50 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:51 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:51 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:52 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:53 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:54 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:54 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:56 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:56 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:57 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:57 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:05:58 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:05:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:00 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:01 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:02 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:03 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:03 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:03 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:05 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:05 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:09 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:10 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:10 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:11 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:13 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:13 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:13 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:13 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:13 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:14 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 19:06:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:14 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:24 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:41 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:43 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:44 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:44 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:45 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:47 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:06:47 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:48 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 19:06:48 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:06:49 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:07:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:07:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:07:08 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:07 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:09 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:20 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:08:20 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:21 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:08:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:21 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:23 WARN  Running javac-semanticdb failed for file:///Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic%20Sorting/pattern.java. Output:
+
+2026.06.16 19:08:23 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:25 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 19:08:25 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:08:26 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:10:58 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:10:59 WARN  no build target for: /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java
+2026.06.16 19:10:59 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:11:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:11:00 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:11:01 INFO  no build target found for /Users/shreyashsature/Coding/JAVA-DSA-practice/C_Basic Sorting/pattern.java. Using fallback presentation compiler.
+2026.06.16 19:11:20 INFO  Shutting down server
+2026.06.16 19:11:20 INFO  Memory monitor stopped
+2026.06.16 19:11:20 INFO  shutting down Metals
+2026.06.16 19:11:20 INFO  Exiting server
